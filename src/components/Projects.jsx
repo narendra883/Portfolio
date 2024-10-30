@@ -4,7 +4,7 @@ const Projects = () => {
         name: "E-commerce Platform",
         description: "A platform to buy and sell products online with a payment gateway integration.",
         githubLink: "https://github.com/narendra883",
-        liveLink: "https://github.com/narendra883",
+        liveLink: "https://easy-shop-self.vercel.app/",
       },
       {
         name: "Goal Tracker",
